@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Narendra Nanotkar</h1>
-<h3 align="center">DevOps Engineer || Open Source Enthusiast || Keep learning, sharing and growing</h3>
-
 - 👯 I’m looking to collaborate on **cloud Native Projects**
 
 <h3 align="left">Connect with me:</h3>
